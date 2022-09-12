@@ -1,0 +1,11 @@
+{
+  "name": "lt",
+  "version": "1.0.0",
+  "description": "leet code problems",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
